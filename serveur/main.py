@@ -4,4 +4,4 @@ import os.path
 
 class main:
     def __init__(self) -> None:
-        print("test")
+        print("j'en ai marre")
